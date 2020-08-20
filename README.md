@@ -1,16 +1,36 @@
-### Hi there 👋
+## About me 👋
 
-<!--
-**Wauzmons/Wauzmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%">
+  <tr>
+    <td>
+      🧔 Male, Age 20, Hobby Game Designer<br/><br/>
+      <ul>
+        <li>💻 My most used languages are <b>Java</b> and <b>C#</b></li>
+        <li>📺 My favorite anime is <b>JoJo</b> no Kimyou na Bouken</li>
+        <li>📖 My favorite manga is <b>Berserk</b></li>
+      </ul>
+    </td>
+    <td>
+      🎮 My favorite games are...<br/><br/>
+      <ul>
+        <li>💗 <b>Zelda</b>: Majora's Mask and Breath of the Wild</li>
+        <li>⛏ <b>Minecraft</b> Creative and Custom Server Gamemodes</li>
+        <li>🏹 <b>Path of Exile</b> and <b>World of Warcraft</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+## What I am currently working on 🧪
+<table width="100%">
+  <tr>
+    <td>
+      <a href="https://seven-ducks.com/delseyria.html">DelseyriaRPG</a>, a complete MMORPG in Minecraft, featuring Equipment, Skills, Quests, Shops, Dungeons, Bosses, Pets, Achievements and much more! Delve into a fascinating world, full of dark dungeons, vicious monsters and mythical treasures!
+    </td>
+    <td>
+      <a href="https://seven-ducks.com/delseyria.html"><img src="https://wauz.eu/assets/images/banner-delseyria.png"/></a>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦆 [Studio Website](https://seven-ducks.com/index.php) | 🐦 [Twitter](https://twitter.com/wauzmons) | 📷 [Instagram](https://www.instagram.com/wauzmons)
