@@ -33,4 +33,4 @@
   </tr>
 </table>
 
-🦆 [Studio Website](https://seven-ducks.com/index.php) | 💬 [Discord](https://discordapp.com/invite/dhHJp5a) | 🐦 [Twitter](https://twitter.com/wauzmons) | 📷 [Instagram](https://www.instagram.com/wauzmons)
+🦆 [Studio Website](https://seven-ducks.com/index.php) | 💬 [Discord](https://discordapp.com/invite/dhHJp5a) | 🐦 [Twitter](https://twitter.com/wauzmons) | 📷 [Instagram](https://www.instagram.com/wauzmons) | 📍 [Reddit](https://www.reddit.com/user/wauzmons) | 🎮 [Steam](https://steamcommunity.com/id/wauzmons)
