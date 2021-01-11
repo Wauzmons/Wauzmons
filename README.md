@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h2>🧔 Male, Age 20, Hobby Game Designer</h2>
+      <h2>🧔 Male, Age 21, Hobby Game Designer</h2>
       <ul>
         <li>🧪 Main Project:
         <a href="https://seven-ducks.com/delseyria.html">DelseyriaRPG</a>, a complete MMORPG inside Minecraft, full of dark dungeons, vicious monsters and mythical treasures!
