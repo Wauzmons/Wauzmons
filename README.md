@@ -5,7 +5,7 @@
       <ul>
         <li>🧪 Main Project:
         <a href="https://seven-ducks.com/delseyria.html">DelseyriaRPG</a>, a complete MMORPG inside Minecraft, full of dark dungeons, vicious monsters and mythical treasures!
-          <a href="https://seven-ducks.com/delseyria.html"><img src="https://wauz.eu/assets/images/banner-delseyria.png"/></a> 
+          <a href="https://seven-ducks.com/delseyria.html"><img src="https://seven-ducks.com/assets/images/banner-delseyria.png"/></a> 
         </li>
         <li>💻 My favorite languages are <b>Java</b>, <b>C#</b> and <b>GDScript</b></li>
         <li>🎮 My favorite games are...
@@ -28,4 +28,4 @@
   </tr>
 </table>
 
-🦆 [Studio Website](https://seven-ducks.com/index.php) | 💬 [Discord](https://discordapp.com/invite/dhHJp5a) | 🐦 [Twitter](https://twitter.com/wauzmons) | 📷 [Instagram](https://www.instagram.com/wauzmons) | 📍 [Reddit](https://www.reddit.com/user/wauzmons) | 🎮 [Steam](https://steamcommunity.com/id/wauzmons)
+🦆 [Studio Website](https://www.seven-ducks.com) | 💬 [Discord](https://discordapp.com/invite/dhHJp5a) | 🐦 [Twitter](https://twitter.com/wauzmons) |  📍 [Reddit](https://www.reddit.com/user/wauzmons) | 🎮 [Steam](https://steamcommunity.com/id/wauzmons)
