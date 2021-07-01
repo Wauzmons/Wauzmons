@@ -2,6 +2,13 @@
   <tr>
     <td>
       <h2>🧔 Male, Age 21, Hobby Game Designer</h2>
+    </td>
+    <td>
+      <h2>📊 Development Statistics</h2>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <ul>
         <li>🧪 Main Project:
         <a href="https://seven-ducks.com/delseyria.html">DelseyriaRPG</a>, a complete MMORPG inside Minecraft, full of dark dungeons, vicious monsters and mythical treasures!
@@ -20,7 +27,6 @@
       </ul>
     </td>
     <td>
-      <h2>📊 Development Statistics</h2>
       <img src="https://github.com/Wauzmons/github-stats/blob/master/generated/overview.svg"/>
       <img src="https://github.com/Wauzmons/github-stats/blob/master/generated/languages.svg"/>
       *The JavaScript portion is highly inaccurate!
