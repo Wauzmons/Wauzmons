@@ -32,6 +32,13 @@
       *The JavaScript portion is highly inaccurate!
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://www.seven-ducks.com">🦆 Seven Ducks Studios</a> |
+      <a href="https://discordapp.com/invite/dhHJp5a">💬 Discord</a> |
+      <a href="https://twitter.com/wauzmons">🐦 Twitter</a> |
+      <a href="https://www.reddit.com/user/wauzmons">📍 Reddit</a> |
+      <a href="https://steamcommunity.com/id/wauzmons">🎮 Steam</a>
+    </td>
+  </tr
 </table>
-
-🦆 [Studio Website](https://www.seven-ducks.com) | 💬 [Discord](https://discordapp.com/invite/dhHJp5a) | 🐦 [Twitter](https://twitter.com/wauzmons) |  📍 [Reddit](https://www.reddit.com/user/wauzmons) | 🎮 [Steam](https://steamcommunity.com/id/wauzmons)
