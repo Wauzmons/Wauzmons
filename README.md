@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h2>🧔 Male, Age 21, Hobby Game Designer</h2>
+      <h2>🧔 M21, Hobby Game Designer</h2>
     </td>
     <td>
       <h2>📊 Development Statistics</h2>
@@ -18,8 +18,8 @@
         <li>🎮 My favorite games are...
           <ul>
             <li>💗 <b>Zelda</b>: Majora's Mask and Breath of the Wild</li>
+            <li>💎 <b>Final Fantasy</b> XIV: Shadowbringers</li>
             <li>⛏ <b>Minecraft</b> Creative and Custom Server Gamemodes</li>
-            <li>🏹 <b>Path of Exile</b> and <b>World of Warcraft</b></li>
           </ul>
         </li>
         <li>📺 My favorite anime is <b>JoJo</b> no Kimyou na Bouken</li>
