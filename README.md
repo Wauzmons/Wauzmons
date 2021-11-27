@@ -11,10 +11,10 @@
     <td>
       <ul>
         <li>🧪 Main Project:
-        <a href="https://seven-ducks.com/delseyria.html">DelseyriaRPG</a>, a complete MMORPG inside Minecraft, full of dark dungeons, vicious monsters and mythical treasures!
-          <a href="https://seven-ducks.com/delseyria.html"><img src="https://seven-ducks.com/assets/images/banner-delseyria.png"/></a> 
+          <a href="https://seven-ducks.com">DelseyriaRPG</a>, a complete MMORPG inside Minecraft, full of dark dungeons, vicious monsters and mythical treasures!
+          <a href="https://seven-ducks.com"><img src="https://seven-ducks.com/assets/images/banner-delseyria.png"/></a> 
         </li>
-        <li>💻 My favorite languages are <b>Java</b>, <b>C#</b> and <b>GDScript</b></li>
+        <li>💻 My favorite languages are <b>C#</b> and <b>Java</b></li>
         <li>🎮 My favorite games are...
           <ul>
             <li>💗 <b>Zelda</b>: Majora's Mask and Breath of the Wild</li>
@@ -38,7 +38,6 @@
       <a href="https://www.seven-ducks.com">🦆 Seven Ducks Studios</a> |
       <a href="https://discordapp.com/invite/dhHJp5a">💬 Discord</a> |
       <a href="https://twitter.com/wauzmons">🐦 Twitter</a> |
-      <a href="https://www.reddit.com/user/wauzmons">📍 Reddit</a> |
       <a href="https://steamcommunity.com/id/wauzmons">🎮 Steam</a>
     </td>
   </tr
