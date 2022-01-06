@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h2>👾 M21, Hobby Game Designer</h2>
+      <h2>👾 M22, Hobby Game Designer</h2>
     </td>
     <td>
       <h2>📊 Development Statistics</h2>
