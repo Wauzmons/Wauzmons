@@ -14,6 +14,7 @@
         <li>🎮 My favorite games are...
           <ul>
             <li>💗 <b>Zelda</b>: Majora's Mask and Breath of the Wild</li>
+            <li>⭐ <b>Paper Mario</b>: The Thousand-Year Door</li>
             <li>💎 <b>Final Fantasy XIV</b>: Endwalker</li>
             <li>⛏ <b>Minecraft</b>: Creative and Custom Server Gamemodes</li>
             <li>🌌 <b>Spore</b>: Galactic Adventures</li>
